@@ -1,3 +1,3 @@
 # hey
 
-some updte
+some update
